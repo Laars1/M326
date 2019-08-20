@@ -1,0 +1,10 @@
+> Dieses Package ist das Basispackage der Gruppe.
+> Alle weiteren Packages und Dateien kommen in diese Package hinein.
+
+> Arbeiten Sie NUR in Ihrem entsprechenden Package!!
+
+# Contributors
+In diesem Package befindet sich die Implementierung der Serverkomponente von
+- Manuel Riesen
+- Sandro Rüfenacht
+- Levi Olsen
